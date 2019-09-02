@@ -25,3 +25,16 @@ List two -
 + Item2
 
 we can use + or - to represent different list, it is use for redibility.
+
+- itemA
+- itemB
++ item1
++ item2
+* item-i
+* item-ii
+
+# order list
+1. item1
+2. item2
+123123. item3
+123kgg. item4
