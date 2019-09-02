@@ -55,9 +55,11 @@ we can use + or - to represent different list, it is use for redibility.
 
 # Tables
 It is not a  table 
+
 Project | Team
 
 It is a table
+
 Project | Team
 --- | ---
 
