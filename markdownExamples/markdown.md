@@ -14,8 +14,8 @@ __*Bold and Italic text*__
 ## Header 2
 ###### Header 6
 
-List - 
-Unorder list items 
+# List - 
+## Unorder list items 
 - Item-1
 - Item-2
 - Item-3
@@ -35,7 +35,7 @@ we can use + or - to represent different list, it is use for redibility.
 * item-i
 * item-ii
 
-# order list
+## order list
 1. item1
    1. for sublist add three spaces at begining
       1. sub of sub-1
@@ -52,6 +52,14 @@ we can use + or - to represent different list, it is use for redibility.
 + [ ] type2
 * [ ] type-i
 * [ ] type-ii
+
+# Tables
+It is not a  table 
+Project | Team
+
+It is a table
+Project | Team
+--- | ---
 
 
 
